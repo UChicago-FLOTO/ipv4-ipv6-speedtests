@@ -7,8 +7,8 @@ Download the data at `coming soon!`
 ## Documentation
 The speed test measurements are structured as follows:
 
-| time | deviceid | tool | direction | protocol | target | pktloss | isp | method  | value |
-| ---  | ---      | ---  | ---       | ---      | ---    | ---     | ---   | ---   |  ---   |
+| time | deviceid | tool | direction | protocol | target | pktloss | method  | value |
+| ---  | ---      | ---  | ---       | ---      | ---    | ---     | ---   | ---   |
 
 ## Publication
 Coming soon!
